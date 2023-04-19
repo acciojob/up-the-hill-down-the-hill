@@ -1,4 +1,4 @@
-# Calculate Average Speed
+# Up The Hill Down The Hill
 
 ## Instructions:
 
